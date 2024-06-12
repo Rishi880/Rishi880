@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/1422cc4f-9117-4cd2-bdb6-22792cf354fb" alt="waving hand gif" width="35"/> , I'm Ranjan</h1>
 <h3 align="center"> A Passionate Data Analyst</h3>
 
-[![](https://visitcount.itsvg.in/api?id=jyotirmaya16&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rishi880&icon=0&color=11)](https://visitcount.itsvg.in)
 
 - 🔭  Currently learning DSA and advancing my analytical skills
 - 👨🏻‍🎓  Studied [Data Analysis](https://verify.mygreatlearning.com/verify/JCGUWXLK) at Great Learning, Hydrabad
