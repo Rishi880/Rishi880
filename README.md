@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/5973538b-7a59-4789-830b-8283157edc74)
 <h1 align="center">Hi <img src="https://github.com/jyotirmaya16/jyotirmaya16/assets/146333462/1422cc4f-9117-4cd2-bdb6-22792cf354fb" alt="waving hand gif" width="35"/> , I'm Ranjan</h1>
-<h3 align="center"> A Passionate Data Analyst</h3>
+<h3 align="center"> A Tenacious Data Analyst</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Rishi880&icon=0&color=11)](https://visitcount.itsvg.in)
 
