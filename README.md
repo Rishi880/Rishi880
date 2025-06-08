@@ -6,7 +6,7 @@
 
 - 🔭  Currently learning DSA and advancing my analytical skills
 - 👨🏻‍🎓  Studied [Data Analysis](https://verify.mygreatlearning.com/verify/JCGUWXLK) at Great Learning, Hydrabad
-- 👀  Discover more about me on my [portfolio](https://rishi880.github.io/portfolio.io/) website
+- 👀  Discover more about me on my [portfolio](https://rishi880.github.io/) website
 - 🌷 - 👀  Discover more about me on my [Tableau](https://public.tableau.com/app/profile/ranjan.bhandi/vizzes) website
 - 📬  How to reach me [br6ranjanbhandi@gmail.com](mailto:br6ranjanbhandi@gmail.com)
 
